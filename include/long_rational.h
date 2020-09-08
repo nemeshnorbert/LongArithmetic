@@ -1,7 +1,7 @@
 #ifndef LONG_ARITHMETIC_LONG_RATIONAL_H_
 #define LONG_ARITHMETIC_LONG_RATIONAL_H_
 
-#include "LongInteger.h"
+#include "long_integer.h"
 
 namespace LongArithmetic
 {

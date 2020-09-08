@@ -1,7 +1,7 @@
 #ifndef LONG_ARITHMETIC_LONG_INTEGER_H_
 #define LONG_ARITHMETIC_LONG_INTEGER_H_
 
-#include "LongNumber.h"
+#include "long_number.h"
 
 namespace LongArithmetic
 {
@@ -280,8 +280,8 @@ namespace LongArithmetic
         }
 
     private:
-        SignType sign_;
         NumberType value_;
+        SignType sign_;
     };
 };
 

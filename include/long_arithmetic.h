@@ -1,9 +1,9 @@
 #ifndef LONG_ARITHMETIC_LONG_ARITHMETIC_H_
 #define LONG_ARITHMETIC_LONG_ARITHMETIC_H_
 
-#include "LongNumber.h"
-#include "LongInteger.h"
-#include "LongRational.h"
+#include "long_number.h"
+#include "long_integer.h"
+#include "long_rational.h"
 
 namespace LongArithmetic
 {

@@ -6,7 +6,7 @@
 #include <stdexcept>
 #include <sstream>
 
-#include "LongArithmeticTraits.h"
+#include "long_arithmetic_traits.h"
 
 namespace LongArithmetic
 {
