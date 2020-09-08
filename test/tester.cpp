@@ -36,7 +36,7 @@ bool RunTest(std::ostream& out, int n)
     // This test checks validity of equality \sum_{k=0}^n (-1)^k {n \choose k} = 0
     Integer currentSum(0);
     Integer resultingSum(0);
-    for (int k = 0; k < n; ++k)
+    for (int k = 0; k <= n; ++k)
     {
         Integer binomial = Binomial(n, k);
         if (k % 2)
